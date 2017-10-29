@@ -1,0 +1,5 @@
+https://tests4geeks.com/single-page-application-using-angularjs-tutorial/
+
+--------------
+
+https://scotch.io/tutorials/single-page-apps-with-angularjs-routing-and-templating
