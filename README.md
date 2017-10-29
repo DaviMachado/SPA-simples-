@@ -1,2 +1,2 @@
-spa simples <\br>
+spa simples <br/>
 "acho que esta funcionando"
